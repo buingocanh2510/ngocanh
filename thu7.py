@@ -1,0 +1,1 @@
+print("20 la het gia cach")
